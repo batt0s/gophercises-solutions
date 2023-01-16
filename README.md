@@ -1,6 +1,6 @@
 # Gophercises Solutions
 
-Those are my solutions for gophercises (https://gophercises.com/)
+Those are my solutions for [gophercises](https://gophercises.com/)
 
 ## Gophercises
 
